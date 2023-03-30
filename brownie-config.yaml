@@ -1,0 +1,14 @@
+compiler:
+  solc:
+    remappings:
+      - "@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.8.2"
+      - "@uniswapv3=Uniswap/v3-core@1.0.0/contracts"
+      - "@uniswapv2=Uniswap/v2-core@1.0.0/contracts"
+reports:
+  exclude_contracts:
+    - SafeMath
+networks:
+    development:
+        cmd_settings:
+            unlock:
+                - 0xF977814e90dA44bFA03b6295A0616a897441aceC
