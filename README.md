@@ -1,6 +1,6 @@
 # Blockchain Flashloan Lets get Front-runned!
 
-I've written an article that walks through more about this code and project.
+I've written an article that walks through more about this code and project : https://medium.com/@harshgill2954/my-flash-loan-arbitrage-stolen-by-front-runners-for-education-19dbe0f88063.
 Essentially, this code is for GETTING FRONT-RUNNED. It's a fun example that I wanted to showcase so everyone can better understand and learn what front-running is like! This Repo if you use it on the BSC mainnet, WILL MOST LIKELY GET FRONT-RUNNED!
 
 The aim is to walk through how front-running can occur on the Blockchain network. The code is not meant for production and is unoptimized.
